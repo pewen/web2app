@@ -10,8 +10,12 @@ https://cordova.apache.org/
 Build mobile apps with simple HTML‚ CSS‚ and JS components.
 http://goratchet.com/
 
-- Android 
+### Android 
 
-Add to Homescreen
+- Building Web Apps in WebView
+
+https://developer.android.com/guide/webapps/webview.html
+
+- Add to Homescreen
 
 https://developer.chrome.com/multidevice/android/installtohomescreen
